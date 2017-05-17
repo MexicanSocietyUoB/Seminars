@@ -1,0 +1,1 @@
+# SeminarsMexicanSocietyUoB.github.io
