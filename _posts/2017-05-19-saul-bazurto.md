@@ -4,6 +4,7 @@ header:
   image: assets/images/unsplash-image-3.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 categories:
+  - Seminars
   - PhD
   - Talks
 tags:
@@ -16,7 +17,7 @@ Saul Basurto, (Third Year PhD student in Economics),
 will talk about the impact of climate change in the decisions
 taken by farmers to plant.
 
-{% include video id="XsxDH4HcOWA" provider="youtube" %}
+{% include video id="afvT1c1ii0c" provider="youtube" %}
 
 
 ## Abstract

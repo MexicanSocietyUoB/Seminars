@@ -4,17 +4,18 @@ header:
   image: assets/images/unsplash-image-3.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 categories:
+  - Seminars
   - PhD
-  - Uncategorized
+  - Talks
 tags:
   - Psychology
-  - Linguistics 
+  - Linguistics
 ---
 
 Cecilia Zuñiga, (Fist Year PhD student in Psychology),
 will talk about how infants learn words and how their vocabulary can be enhanced.
 
-{% include video id="XsxDH4HcOWA" provider="youtube" %}
+{% include video id="afvT1c1ii0c" provider="youtube" %}
 
 
 ## Abstract
