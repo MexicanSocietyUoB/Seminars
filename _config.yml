@@ -80,9 +80,9 @@ author:
   name             : "Mexican Society"
   avatar           : "/assets/images/1234998_653485224681712_433672611_n.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : #"I am an amazing person."
-  location         : "Birmingham, UK"
+  location         : "University of Birmingham, UK"
   email            :
-  uri              :
+  uri              : "https://mexicansocietyuob.github.io/SeminarsMexicanSocietyUoB.github.io/"
   bitbucket        :
   codepen          :
   dribbble         :
