@@ -1,5 +1,5 @@
 ---
-title: "TITLE"
+title: "Template for Talks"
 header:
   image: assets/images/unsplash-image-3.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -9,6 +9,7 @@ categories:
   - Talks
 tags:
   - Keyword A
+  - Keyword B
   - Keyword B
 ---
 
@@ -33,7 +34,7 @@ nunc. Morbi imperdiet augue quis tellus.
 > Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
 
 
-## Author
+## About the Author (Short Bio)
 
 HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at,
 commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent
