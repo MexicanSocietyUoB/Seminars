@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Mexican Society Seminars at University of Birmimgham"
+title                    : "Seminars of the Mexican Society at University of Birmimgham"
 title_separator          : "-"
-name                     : "DRAFT"
+name                     : ""
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ author:
   bio              : #"I am an amazing person."
   location         : "Birmingham, UK"
   email            :
-  uri              : "https://mexicansocietyuob.github.io/SeminarsMexicanSocietyUoB.github.io/"
+  uri              : "https://mexicansocietyuob.wordpress.com/"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : UoB_MexicanSoc
   vine             :
   weibo            :
   xing             :
