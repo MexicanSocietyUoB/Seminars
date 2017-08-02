@@ -1,19 +1,24 @@
 ---
 title: "How Infants Learn Words"
 header:
-  image: assets/images/unsplash-image-3.jpg
+  teaser: "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 categories:
   - Seminars
   - PhD
   - Talks
 tags:
-  - Psychology
-  - Linguistics
+  - Developmental psychology
+  - Developmental disorders
+  - Late talkers
+  - Language development
+  - Language and cognition
 ---
 
-Cecilia Zuñiga, (Fist Year PhD student in Psychology),
+Cecilia Zuñiga, (First Year PhD student in Psychology),
 will talk about how infants learn words and how their vocabulary can be enhanced.
+
+The presentation is available [here](~/Seminars/assets/slides/czuniga052017/slidespptx.pptx)
 
 {% include video id="afvT1c1ii0c" provider="youtube" %}
 
@@ -29,4 +34,16 @@ Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nulla
 
 ## Author
 
-HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
+Cecilia did her undergraduate studies in Psychology at the Universidad
+Iberoamericana, Mexico. After finishing her studies, she worked for a year at a
+school for children diagnosed with ASD (Autism Spectrum Disorder). Then, she
+studied an MSc. in Developmental Disorders at Lancaster University under the
+supervision of [Professor Gert Westermann](https://scholar.google.co.uk/citations?user=LRUPxvAAAAAJ&hl=en)
+where she worked in the Lancaster University´s Baby Lab studying how infants
+learn and remember words related to adjectives and object properties.
+After finishing her degree, she went back to Mexico where she worked as a preschool
+teacher and as a child therapist for infants diagnosed with language, learning or
+developmental disorders. Currently she is doing her PhD in Psychology
+under the supervision of [Dr Andrea Krott](https://scholar.google.co.uk/citations?user=Dqdrwa0AAAAJ&hl=en)
+where she is studying infant language development and techniques to boost
+the vocabulary of typically developed infants and infants with language delays.
