@@ -13,33 +13,19 @@ tags:
   - Keyword B
 ---
 
-
-## Important notes for the presentation and the speaker
-
-
-Prepare a 20 minutes presentation in English language in its ppt and pdf version.
-The presentation's content should be under the creative commons licence.
-
-The speaker should also provide an abstract for the presentation,
-keywords and a short biography. It would also be nice that the speaker
-share his personal webpage and twitter account.
-
-{: style="text-align: justify;"}
-
+Name Surname[^1] is a Fist/Second/Third/Four Year PhD student in Area of X,
+he/she talk about ...
+[^1]: <http://en.wikipedia.org/wiki/Syntax_highlighting>
 
 ## Abstract
-
-Name Surname is a Fist/Second/Third/Four Year PhD student in Area of X,
-he/she talk about ...
 
 **Syntax highlighting** is a feature that displays source code, in different
 colors and fonts according to the category of terms. This feature facilitates
 writing in a structured language such as a programming language or a markup
 language as both structures and syntax errors are visually distinct. Highlighting
 does not affect the meaning of the text itself; it is intended only for human
-readers.[^1]
+readers.
 
-[^1]: <http://en.wikipedia.org/wiki/Syntax_highlighting>
 
 *This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125.
 Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt
@@ -47,7 +33,8 @@ nec, gravida vehicula, nisl. The New York Times (That’s a citation).
 Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy.
 Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in,
 nunc. Morbi imperdiet augue quis tellus.
-{: style="text-align: justify;"}
+
+<!-- {: style="text-align: justify;"} -->
 
 ## Presentation
 
@@ -67,4 +54,4 @@ profile.
 
 > Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
 
-{: style="text-align: justify;"}
+<!-- {: style="text-align: justify;"} -->
