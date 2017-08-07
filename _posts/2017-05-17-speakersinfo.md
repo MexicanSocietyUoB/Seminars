@@ -14,58 +14,69 @@ tags:
 ---
 
 
-## Speakers
+## General Information
 
-As a speaker for the science seminar, we are asking you to provide an abstract
-for the presentation, keywords and a short biography.
-We invite you to use open software in order to be able to share all our
-talks and wake up the curiosity of others.
+As a speaker for the Science Seminars of the Mexican Society,
+we are kindly inviting you to share your research advances in a provocative and
+enthusiastic talk for a general audience.
+With this in mind, we require you to share the following information: an
+abstract, keywords, a 20-minute presentation and a short biography.
+Our goal with the Science Seminars is sharing
+to the international and to the Mexican community
+what the students of University of Birmingham are doing in their areas of research.  
+We are also encouraging the community to work towards a reproducible and open
+science where anyone, anywhere can get the benefits of doing science.
 
-## Title of the presentation
+## Requirements
+
+##### Abstract
+
+**Abstract** of approximately 150 word. In case that you require a bit of
+inspiration for writing your abstract, you can visit the following instructions
+that provide a good example of a well written and structured abstract.
+[How to construct a Nature summary paragraph](https://pbs.twimg.com/media/CJ0q7lqUsAAaEFC.png)
+
+##### Keywords
+Provide from three to five keywords going from general to specific areas of your research.
+
+##### Title of the presentation
 
 Try to put a bit of imagination and create a provocative title.
 We want that our audience feel the power of science and the creation
 of new knowledge.
 
-
-## Presentation
-
-Prepare a 20 minutes presentation in English language that is targeted for a
-general audience of different backgrounds.
-Your presentation will be updated in the sites of the seminar so the content
-should be under the creative commons licence.
-
-## Abstract
+##### Presentation
+Prepare a 20-minutes presentation in English language that is targeted for a
+general audience. Your presentation will be available in the Science Seminar's
+website, we therefore ask you that the content should be under the creative
+commons licence.
 
 
-**Abstract** is a feature that displays source code, in different
-colors and fonts according to the category of terms. This feature facilitates
-writing in a structured language such as a programming language or a markup
-language as both structures and syntax errors are visually distinct. Highlighting
-does not affect the meaning of the text itself; it is intended only for human
-readers.
+##### Short Biography
 
-In case that you require a bit of inspiration, the following instructions describe
-very well how to construct an abstract:
-[How to construct a Nature summary paragraph](https://pbs.twimg.com/media/CJ0q7lqUsAAaEFC.png)
+Create a short biography of maximum 200 words. We also encourage you to share your
+contact details such as Webpage, twitter, Facebook or e-mail. It would be nice if
+you have a photo to add you in the data base of the presenters.
 
-
-
-
-## Keywords
-
-Add from three to five keywords going from general to specific areas of your research.
+Some tips for a short biography are: Use formal style; Tailor it for a specific occasion;
+Be concise; Define yourself in the first sentence and afterwards establish your credentials;
+Use clear terminology that your audience will understand; Spell out abbreviations;
+Use strong action words to convey your experiences and illustrate your qualifications with phrases
+like “Dr. Scientist has a strong background in” and “Dr. Scientist identified
+X species for the first time”
+[(Puljak, 2008)](http://www.labtimes.org/labtimes/method/methods/2008_02.lasso).
 
 
-## Video
+##### Video
 
-As long as you agree, you might be recorded to share to our audience the work
-you are doing in your research.
+As long as you agree, you might be video recorded and upload a youtube video
+in order to share to our audience your research.
 
+#### Available Slots
 
-## Short Biography
-
-Create a short biography of 100 words. We also encorage you to share your webpage,
-twitter, facebook or any way to contact you.
-You can also share a personal quote or an author's quote so as to add it on your
-profile.
+* 13 October 2017 (Speaker 1)
+* 13 October 2017 (Speaker 2)
+* 10 November 2017 (Speaker 3)
+* 10 November 2017 (Speaker 4)
+* 14 December 2017 (Speaker 5)
+* 14 December 2017 (Speaker 6)
