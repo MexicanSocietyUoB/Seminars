@@ -26,6 +26,8 @@ Minor Comments:
 
 # Updates 7 August 2017
 
+# MESSAGE FOR THE SCIENCE SEMINAR
+
 Hey Mexican Curious,
 
 We are organising the Science Seminar of the Mexican Society and we are
@@ -35,10 +37,13 @@ delighted to invited you to several activities:
  for the speaker information
 
 * Poster for seminars:
-We are designing the poster for the seminars, so it would be nice that you
+We are designing the poster for the seminars
+https://github.com/MexicanSocietyUoB/Seminars/blob/master/assets/poster_announcements/second_draft/second_draft.pdf
+, so it would be nice that you
 share an image that represent your school or even better your research.
 You can also share your comments or critics about the design or even better
-feel free to download the template []()
+feel free to download the template
+https://github.com/MexicanSocietyUoB/Seminars/tree/master/assets/poster_announcements/second_draft
 and modify it with [inkscape](https://inkscape.org/en/download/).
 
 * WebPage design

@@ -1,5 +1,5 @@
 ---
-title: "Information for Speakers"
+title: "General Information for Speakers"
 header:
   teaser: "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -12,9 +12,6 @@ tags:
   - Keyword B
   - Keyword B
 ---
-
-
-## General Information
 
 As a speaker for the Science Seminars of the Mexican Society,
 we are kindly inviting you to share your research advances in a provocative and
