@@ -26,27 +26,27 @@ Minor Comments:
 
 # Updates 7 August 2017
 
-# MESSAGE FOR THE SCIENCE SEMINAR
+#### MESSAGE FOR THE SCIENCE SEMINAR  (YOU CAN SPREAD THE FOLLOWING MESSAGE WITH OTHER MEXICANS)
 
 Hey Mexican Curious,
 
-We are organising the Science Seminar of the Mexican Society and we are
-delighted to invited you to several activities:
+We, the Mexican Society, are inviting you to be one an speaker for Science Seminars
+of the Mexican Society in which you will talk about your pioneering research to a general audience.
+We kindly invite you to check the following information:
 
-* This is the [link](https://mexicansocietyuob.github.io/Seminars/seminars/phd/talks/speakersinfo/)
- for the speaker information
+* General Information for Speakers
+https://mexicansocietyuob.github.io/Seminars/seminars/phd/talks/speakersinfo/
 
 * Poster for seminars:
-We are designing the poster for the seminars
-https://github.com/MexicanSocietyUoB/Seminars/blob/master/assets/poster_announcements/second_draft/second_draft.pdf
-, so it would be nice that you
-share an image that represent your school or even better your research.
-You can also share your comments or critics about the design or even better
+We are designing the poster for the science seminars
+[https://github.com/MexicanSocietyUoB/Seminars/blob/master/assets/poster_announcements/second_draft/second_draft.pdf]
+, so it would be nice that you share an image that represent your school or even better your pioneering research.
+You can also share your comments or critics about the design of the poster or even better
 feel free to download the template
 https://github.com/MexicanSocietyUoB/Seminars/tree/master/assets/poster_announcements/second_draft
-and modify it with [inkscape](https://inkscape.org/en/download/).
+and modify it with [inkscape](https://inkscape.org/en/download/) and share it with us.
 
 * WebPage design
  If you feel like you want to contribute with the design of the
- webpage in any way, we have a GitHub space https://github.com/MexicanSocietyUoB/Seminars
- or simply let us know what how can we improve it.
+ webpage, we have a GitHub space [https://github.com/MexicanSocietyUoB/Seminars]
+ or simply let us know what how can we improve the design of the webpage [https://mexicansocietyuob.github.io/Seminars/].
