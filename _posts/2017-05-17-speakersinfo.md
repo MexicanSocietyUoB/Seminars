@@ -45,9 +45,10 @@ of new knowledge.
 ##### Presentation
 Prepare a 20-minutes presentation in English language that is targeted for a
 general audience. Your presentation will be available in the Science Seminar's
-website, we therefore ask you that the content should be under the creative
-commons licence.
+website to which the content should be under the creative commons licence.
 
+We suggest to read these references to structure your presentation
+[(Corticalia 2016)](https://corticalia.wordpress.com/2016/06/19/how-to-structure-a-presentation/).
 
 ##### Short Biography
 

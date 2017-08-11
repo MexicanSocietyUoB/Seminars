@@ -38,3 +38,8 @@ It would be nice to organise the following links!
 * http://www.uvaari.org/site/wp-content/uploads/2014/12/UVA-CNDI-2016-Save-the-Date-small.png
 * http://www.mslsolicitors.com/wp-content/uploads/2016/10/FINAL-INVITE.png
 * https://s-media-cache-ak0.pinimg.com/736x/e3/61/20/e361204d4245ef03b88d615de9a22b91--seminar-invitation-invitation-conference.jpg
+
+
+* [kopenlab poster](https://pbs.twimg.com/media/BqubejHIQAAlTOm.jpg)
+ looks clean, maybe it is using the golden ratio proportion.
+ It has a balanced combination of fonts and colours.   
