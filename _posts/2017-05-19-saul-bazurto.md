@@ -12,21 +12,24 @@ tags:
   - Climate Change
 ---
 
+On the seminar of the 19th of May 2017, Saul Basurto, (Third Year PhD student in Economics),
+talks about the impact of climate change in the decisions taken by farmers to plant.
 
-Saul Basurto, (Third Year PhD student in Economics),
-will talk about the impact of climate change in the decisions
-taken by farmers to plant.
+The presentation is available [here](https://github.com/MexicanSocietyUoB/Seminars/blob/maste/assets/slides/sbazurto052017/slides.pdf)
 
-{% include video id="afvT1c1ii0c" provider="youtube" %}
+<!-- {% include video id="afvT1c1ii0c" provider="youtube" %} -->
 
 
 ## Abstract
+Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam
+ dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit
+ dui. 53 = 125. Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at,
+ tincidunt nec, gravida vehicula, nisl. The New York Times (That’s a citation).
+ Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy.
+ Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in,
+ nunc. Morbi imperdiet augue quis tellus.
 
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
 
-*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times (That’s a citation). Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
-
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
 
 ## Author
 

@@ -1,5 +1,5 @@
 ---
-title: "Template for Talks [Title]"
+title: "Template for Talks"
 header:
   teaser: "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -13,9 +13,8 @@ tags:
   - Keyword B
 ---
 
-Name Surname[^1] is a Fist/Second/Third/Four Year PhD student in Area of X,
+Name Surname is a Fist/Second/Third/Four Year PhD student in Area of X,
 he/she talk about ...
-[^1]: <http://en.wikipedia.org/wiki/Syntax_highlighting>
 
 ## Abstract
 
@@ -27,20 +26,11 @@ does not affect the meaning of the text itself; it is intended only for human
 readers.
 
 
-*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125.
-Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt
-nec, gravida vehicula, nisl. The New York Times (That’s a citation).
-Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy.
-Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in,
-nunc. Morbi imperdiet augue quis tellus.
-
-<!-- {: style="text-align: justify;"} -->
-
 ## Presentation
 
 The presentation is available at [slides.pdf](https://mexicansocietyuob.github.io/Seminars/)
 
- {% include video id="afvT1c1ii0c" provider="youtube" %}
+{% include video id="afvT1c1ii0c" provider="youtube" %}
 
 ## About the Author (Short Bio)
 
@@ -52,6 +42,4 @@ Share your webpage, twitter, facebook or any way to contact you.
 You can also share a personal quote or an author's quote so as to add it on your
 profile.
 
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
-
-<!-- {: style="text-align: justify;"} -->
+> Favourite Quote: "Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est." ~Quisque aliquam.

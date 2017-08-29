@@ -31,7 +31,7 @@ science where anyone, anywhere can get the benefits of doing science.
 **Abstract** of approximately 150 word. In case that you require a bit of
 inspiration for writing your abstract, you can visit the following instructions
 that provide a good example of a well written and structured abstract.
-[How to construct a Nature summary paragraph](https://pbs.twimg.com/media/CJ0q7lqUsAAaEFC.png)
+[How to construct a Nature summary paragraph](https://github.com/MexicanSocietyUoB/Seminars/blob/master/assets/presentations/Letter_bold_para.pdf)
 
 ##### Keywords
 Provide from three to five keywords going from general to specific areas of your research.
