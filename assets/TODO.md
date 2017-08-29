@@ -3,12 +3,6 @@
 # Seminars Webpage
 
 
-* Create google form or doodle form for the speakers
-
-* Activate comments section comments
-
-*  Explore /docs
-
 *  Create a gmail account
 MexicanSociety
 UniversityOfBirmingham
@@ -16,9 +10,19 @@ MexicanSocietyUoB@gmail.com
 
 
 
+* Create google form or doodle form for the speakers
+
+* use splash layout for the home page
+
+* Activate comments section comments
+
+
+
 * add the abstract for czuniga talk
 * contact sbarzurto for the completion of the talk
 
+
+*  Explore /docs
 
 * Embed https://issuu.com/ PDF presentations in the posts
 
@@ -34,5 +38,5 @@ bar: SEARCH[]  CATEGORIES[] YEAR[]. This is the example https://www.ciudaddelasi
 
 # DONE
 
-* splash layout
+
 * fixed the links for the presenters
