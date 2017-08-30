@@ -20,8 +20,6 @@ talks about how infants learn words and how their vocabulary can be enhanced.
 
 The presentation is available [here](https://github.com/MexicanSocietyUoB/Seminars/blob/master/assets/slides/czuniga052017/slidespptx.pdf)
 
-<!-- {% include video id="afvT1c1ii0c" provider="youtube" %} -->
-
 
 ## Abstract
 Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam

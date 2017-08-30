@@ -9,7 +9,6 @@ UniversityOfBirmingham
 MexicanSocietyUoB@gmail.com
 
 
-
 * Create google form or doodle form for the speakers
 
 * use splash layout for the home page
