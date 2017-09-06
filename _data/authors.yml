@@ -1,11 +1,11 @@
 # /_data/authors.yml
-Billy Rick:
-  name: "Billy Rick"
-  uri: "http://thewhip.com"
-  email: "billy@rick.com"
-  bio: "What do you want, jewels? I am a very extravagant man."
+Name Surname:
+  name: "Name Surname"
+  uri: "http://mywebpage.mx"
+  email: "name.surname@uniemail.mx"
+  bio: "Keyword, Keyword, Keyword"
   avatar: "/assets/images/bio-photo-2.jpg"
-  twitter: "extravagantman"
+  twitter: "MexicanScientist"
 
 Cornelius Fiddlebone:
   name: "Cornelius Fiddlebone"
