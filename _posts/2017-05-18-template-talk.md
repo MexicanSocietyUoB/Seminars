@@ -1,5 +1,6 @@
 ---
 title: "Template for Talks"
+author: Billy Rick
 header:
   teaser: "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"

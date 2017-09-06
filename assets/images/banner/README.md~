@@ -1,7 +1,7 @@
 #
 the good one
 ```
-inkscape --export-png drawing_v##.png drawing.svg
+inkscape --export-png drawing.png drawing.svg
 ```
 
 
