@@ -9,7 +9,7 @@ UniversityOfBirmingham
 MexicanSocietyUoB
 @gmail.com
 
-I tried to create such accont, however the google policies mentioned that each
+I tried to create such account, however the google policies mentioned that each
 gmail account has to be linked to a mobile number to which I would not be able
 to create the account. just for the record I tried some Online SMS Verification
 Sites but none of the work on August 2017 for which I am going to use my
