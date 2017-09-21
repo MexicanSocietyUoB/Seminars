@@ -13,10 +13,6 @@ tags:
   - Climate Change
 ---
 
-<!-- header:
-  image: assets/images/unsplash-image-3.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)" -->
-
 On the seminar of the 19th of May 2017, Saúl Basurto Hernández, (Third Year PhD student in Economics),
 talked about the impact of climate change in the decisions taken by farmers to plant.
 
