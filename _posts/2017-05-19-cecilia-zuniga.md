@@ -1,6 +1,9 @@
 ---
 title: "How Infants Learn Words"
 author: Cecilia Zuniga
+header:
+  teaser: "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 categories:
   - Seminars
   - PhD
@@ -13,9 +16,6 @@ tags:
   - Language and cognition
 ---
 
-<!-- header:
-  teaser: "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)" -->
 
 On the seminar of the 19th of May 2017, Claudia Cecilia Zuñiga Montanez, (First Year PhD student in Psychology),
 talked about how infants learn words and how their vocabulary can be enhanced.

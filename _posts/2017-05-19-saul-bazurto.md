@@ -1,6 +1,9 @@
 ---
 title: "Impact of Climate Change"
 author: Saul Basurto
+header:
+  teaser: "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 categories:
   - Seminars
   - PhD
@@ -19,8 +22,6 @@ talked about the impact of climate change in the decisions taken by farmers to p
 
 His presentation is titled as "The influence of climate change on crop and livestock choices in Mexico"
 and it is available [here](https://github.com/MexicanSocietyUoB/Seminars/blob/maste/assets/slides/sbazurto052017/slides.pdf)
-
-<!-- {% include video id="afvT1c1ii0c" provider="youtube" %} -->
 
 
 ## Abstract in Spanish
