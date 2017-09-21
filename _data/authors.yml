@@ -13,3 +13,19 @@ Cornelius Fiddlebone:
   bio: "I ordered what?"
   avatar: "/assets/images/bio-photo.jpg"
   twitter: "rhymeswithsackit"
+
+Saul Basurto:
+  name: "Saúl Basurto Hernández"
+  uri: "http://mywebpage.mx"
+  email: "sxb1022@bham.ac.uk"
+  bio: "Economics, Climate Change"
+  avatar: "/assets/images/bio-photo-2.jpg"
+  twitter: "sbasurto"
+
+Cecilia Zuniga:
+  name: "Claudia Cecilia Zuñiga Montanez"
+  uri: "http://mywebpage.mx"
+  email: "@bham.ac.uk"
+  bio: "Developmental psychology, Developmental disorder, Late talkers, Language development, Language and cognition"
+  avatar: "/assets/images/bio-photo-2.jpg"
+  twitter: "czuniga"
