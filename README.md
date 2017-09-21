@@ -1,5 +1,10 @@
-Mexican Society Seminars at University of Birmimgham
+Mexican Society Seminars at University of Birmingham
 ---
+
+* [GitHub](https://github.com/MexicanSocietyUoB/Seminars)
+* [WebSite](https://mexicansocietyuob.github.io/Seminars/)
+
+
 
 The template for the website is based on [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)
 

@@ -20,13 +20,12 @@ for snack and refreshments for the assistances.
 
 Contacting speakers
 
-Hola ,
 
-Espero que todo esta marchando bien en tu investigaci'on, con la familia y amigos.
+Hola Waldo,
 
-Queremos que nos confirmarnos tu asistencia para presentar tu trabajo de
-investigaci'on en los seminarios de ciencia de la Sociedad Mexicana.
-Estan son las fechas tentativas:
+Queremos saber si te interesa presentar tu trabajo de investigaci'on
+en los seminarios de ciencia de la Sociedad Mexicana.
+Puede ser fisicamente o por videollamada. Estan son las fechas tentativas:
 
 * 13 October 2017 (Speaker 1)
 * 13 October 2017 (Speaker 2)
