@@ -1,6 +1,7 @@
 Science Seminars Series of the Mexican Society
 
 
+[16.png](https://www.maths.ox.ac.uk/system/files/styles/embedded_portrait_large/private/attachments/16.png?itok=ePr5wdld)
 
 # Examples of Posters for Science Seminars
 

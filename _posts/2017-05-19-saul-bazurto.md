@@ -13,11 +13,11 @@ tags:
   - Climate Change
 ---
 
-On the seminar of the 19th of May 2017, Saúl Basurto Hernández, (Third Year PhD student in Economics),
-talked about the impact of climate change in the decisions taken by farmers to plant.
+Saúl Basurto Hernández, third year PhD student in Economics,
+talked about the impact of climate change in the decisions making for plating by farmers.
 
 His presentation is titled as "The influence of climate change on crop and livestock choices in Mexico"
-and it is available [here](https://github.com/MexicanSocietyUoB/Seminars/blob/maste/assets/slides/sbazurto052017/slides.pdf)
+and it is available [here](https://github.com/MexicanSocietyUoB/seminars/blob/master/assets/slides/sbazurto052017/slides.pdf)
 
 
 ## Abstract in Spanish
@@ -42,24 +42,24 @@ al nuevo contexto climatico.
 
 
 ## Short Biography of the Author
-Candidato a doctor en Economía por la Universidad de Birmingham en el Reino Unido.
-Maestro en Ciencias Económicas Ambientales y de los Recursos Naturales por la misma
-institución (con distinción). Licenciado en Economía por la UNAM (con mención
-honorífica). Ha sido distinguido por el Consejo de Investigaciones Sociales y Económicas
-(ESRC) y la Asociación de Economistas Agrícolas del Reino Unido por su investigación
-doctoral. Asimismo, los resultados de su investigación se han presentado en congresos
-internacionales organizados por la Asociación Europea de Economistas Ambientales y de
+Saúl Basurto Hernández did his undergraduate studies in Economics at the
+UNAM (National Autonomous University of Mexico) and a Master in Environmental
+Economics and Natural Resources at University of Birmingham. Currently,
+he is a PhD student in Economics at University of Birmingham under the
+supervision of ??.
+He has been distinguished by the Consejo de Investigaciones Sociales y Económicas
+(ESRC) and by the la Asociación de Economistas Agrícolas del Reino Unido
+for his doctoral research in ???. He has presented works in different conferences:
+la Asociación Europea de Economistas Ambientales y de
 los Recursos Naturales, la Asociación Europea de Economistas Agrícolas, la Asociación
 Internacional de Economía y la Asociación de Economistas Agrícolas del Reino Unido.
-Siendo un miembro activo de dichas asociaciones. Dentro de sus actividades de
-investigación, actualmente colabora en el proyecto “Un modelo de economía del
-conocimiento” desarrollado por la Universidad Autónoma del Estado de Hidalgo; ha
-participado en proyectos como “El manejo comunitario de recursos naturales y los retos
-ambientales en América Latina”, proyecto conjunto entre la UNAM y la Comisión
-Europea; así como también, en el proyecto “El futuro de las ciudades en México” en
-colaboración con el Instituto de Investigaciones Sociales de la UNAM. Respecto a las
-actividades académicas, es profesor asistente en la Universidad de Birmingham en diversos
-módulos a nivel maestría y licenciatura (econometría, recursos naturales, desarrollo
-sustentable, entre otros); laboró como profesor de asignatura de teoría de juegos y
-desarrollo sustentable en la Facultad de Economía de la UNAM; e impartió diversos
-módulos en la misma institución como profesor adjunto.
+He has also been participated in several projects like:
+ “El manejo comunitario de recursos naturales y los retos
+ambientales en América Latina” with UNAM and European Comission,
+ “El futuro de las ciudades en México” with the Institute of Investigaciones Sociales at UNAM.
+ and currently in the  “Un modelo de economía del conocimiento”  by the Universidad Autónoma del Estado de Hidalgo.
+ Saul was a teacher at the Faculty of Economics
+ at UNAM where he taugh Game theory and sustainable development.
+Additionally, he has been a teaching assistant at the University of Birmingham
+at Master and bachelor degrees with the modules of econometrics, natural resources and
+sustainable development.

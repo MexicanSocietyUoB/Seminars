@@ -26,6 +26,22 @@ Cecilia Zuniga:
   name: "Cecilia Zuñiga"
   uri: "http://mywebpage.mx"
   email: "@bham.ac.uk"
-  bio: "Developmental psychology, Developmental disorder, Late talkers, Language development, Language and cognition"
+  bio: "Language development, Language and cognition"
   avatar: "/assets/images/bio-photo-3.jpg"
   twitter: "czuniga"
+
+Emanuel Bourges:
+  name: "Emanuel Bourges"
+  uri: "http://mywebpage.mx"
+  email: "@bham.ac.uk"
+  bio: "Social Science, Umemployement"
+  avatar: "/assets/images/bio-photo-2.jpg"
+  twitter: "ebourges"
+
+Alejandro Vigna-Gomez:
+  name: "Alejandro Vigna-Gomez"
+  uri: "http://mywebpage.mx"
+  email: "@bham.ac.uk"
+  bio: "Astrophysics, Neutron Starts, Black Holes"
+  avatar: "/assets/images/bio-photo-2.jpg"
+  twitter: "avigna-gomez"

@@ -2,7 +2,7 @@ Mexican Society Seminars at University of Birmingham
 ---
 
 * [GitHub](https://github.com/MexicanSocietyUoB/Seminars)
-* [WebSite](https://mexicansocietyuob.github.io/Seminars/)
+* [WebSite](https://mexicansocietyuob.github.io/seminars/)
 
 
 

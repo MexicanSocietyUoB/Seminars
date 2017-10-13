@@ -17,27 +17,28 @@ tags:
 ---
 
 
-On the seminar of the 19th of May 2017, Claudia Cecilia Zuñiga Montanez, (First Year PhD student in Psychology),
+Claudia Cecilia Zuñiga Montanez, first year PhD student in Psychology,
 talked about how infants learn words and how their vocabulary can be enhanced.
 
 Her presentation is titled as "The acquisition of words during the first years of life"
-and it is available [here](https://github.com/MexicanSocietyUoB/Seminars/blob/master/assets/slides/czuniga052017/slidespptx.pdf)
+and it is available [here](https://github.com/MexicanSocietyUoB/seminars/blob/master/assets/slides/czuniga052017/slidespptx.pdf)
 
 
 ## Abstract
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam
- dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit
- dui. 53 = 125. Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at,
- tincidunt nec, gravida vehicula, nisl. The New York Times (That’s a citation).
- Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy.
- Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in,
- nunc. Morbi imperdiet augue quis tellus.
-
+When do infants start talking? Which words do they learn first? are the main questions
+that Celia is interested to answer. In this presentation, she  presents different bias
+methodologies that might affect or improve the way an infant learn a language.
+With this in mind, an experiment with 32 infants of 17 months old children
+is performed in order to teach infants to focus on either the shape or the function
+when learning and generalising novel words. The experiment also asses the effect
+the two strategies (learning by shape or learning by function) have in vocabulary growth.
+Finally, the results aim to provide information regarding techniques to boost
+the vocabulary of typically development children and potentially infants with
+language delays.
 
 
 ## Author
-
-Cecilia did her undergraduate studies in Psychology at the Universidad
+Cecilia Zuñiga did her undergraduate studies in Psychology at the Universidad
 Iberoamericana, Mexico. After finishing her studies, she worked for a year at a
 school for children diagnosed with ASD (Autism Spectrum Disorder). Then, she
 studied an MSc. in Developmental Disorders at Lancaster University under the
