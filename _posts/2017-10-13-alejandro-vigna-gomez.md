@@ -15,11 +15,9 @@ tags:
 ---
 
 Alejandro Vigna-Gomez, third year PhD student in Astrophysics,
-talked about ""
+talked about "The Death of Starts".
 
-His presentation is titled as "The Death of Starts"
-and it is available [here](https://github.com/MexicanSocietyUoB/seminars/blob/master/assets/slides/avigna-gomez102017/MexSocSeminarShort.pdf)
-
+His presentation is available [here](https://github.com/MexicanSocietyUoB/seminars/blob/master/assets/slides/agomezvina102017/MexSocSeminarShort.pdf)
 
 ## Abstract
 When massive stars end their life they can become either a neutron star or black hole.

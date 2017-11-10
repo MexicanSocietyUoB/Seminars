@@ -14,12 +14,10 @@ tags:
   - Distribution of Earnings
 ---
 
-Jorge Bouchot, four year PhD student in Economics,
-talked about ""
+Jorge Bouchot, four year PhD student in Economics, talked about
+"The implications of the 2012 minimum wage rise on the Mexican labour market"
 
-His presentation is titled as "The implications of the 2012 minimum wage rise on the Mexican labour market"
-and it is available [here](https://github.com/MexicanSocietyUoB/seminars/blob/master/assets/slides/~/slides.pdf)
-
+His presentation is available [here](https://github.com/MexicanSocietyUoB/seminars/blob/master/assets/slides/jbouchot112017/slides.pdf)
 
 ## Abstract
 
