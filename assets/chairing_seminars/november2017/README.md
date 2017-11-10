@@ -13,7 +13,7 @@ blockchain and cryptocurrencies.
 
 # JORGE BOUCHOT
 Jorge Bouchot is originally from Pachuca, Hidalgo, Mexico.
-He received her bachelor degree in Economics at Universidad Autonoma de Hidalgo
+He received his bachelor degree in Economics at Universidad Autonoma de Hidalgo
 and his masters degree at El Colegio de Mexico. He is mainly interested in
 evaluation of social programs and his the doctoral dissertation has been
 awarded with two prizes in Mexico:
