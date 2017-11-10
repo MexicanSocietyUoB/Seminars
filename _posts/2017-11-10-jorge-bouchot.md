@@ -9,9 +9,9 @@ categories:
   - PhD
   - Talks
 tags:
-  - minimum wage
-  - informal employment
-  - distribution of earnings
+  - Minimum Wage
+  - Informal Employment
+  - Distribution of Earnings
 ---
 
 Jorge Bouchot, four year PhD student in Economics,

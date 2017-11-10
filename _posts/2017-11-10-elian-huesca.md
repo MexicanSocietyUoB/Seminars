@@ -6,11 +6,12 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 categories:
   - Seminars
-  - PhD
+  - Master
   - Talks
 tags:
-  - X
-  - X
+  - Global Migration
+  - Sociology of Technology
+  - Cryptocurrencies
 ---
 
 Elian Huesca, a 2017 graduated Master in Migration, Superdiversity and Policy,
