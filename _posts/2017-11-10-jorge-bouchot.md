@@ -32,3 +32,7 @@ under the supervision of
 [Anindya Banerjee](https://www.birmingham.ac.uk/staff/profiles/business/banerjee-anindya.aspx)
 and [Marco Ercolani](https://www.birmingham.ac.uk/staff/profiles/business/ercolani-marco.aspx)
 Additionally to that, he is enthusiastic about labour economics and economic develpment.
+
+The doctoral dissertation has been awarded with two prizes in Mexico:
+the Citibanamex National Prize in Economics, 2016, and the National Prize in
+Economic Research Víctor L. Urquidi, 2016.

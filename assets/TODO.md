@@ -1,14 +1,16 @@
 
 
 
-## TODO LIST FOR NOVEMBER 2017
+## TODO LIST FOR 2017
 
 - [ ] Create a list for possible spekers for next term
 - [ ] Cristina suggests to present on December!
 - [ ] Create the members site
-- [ ] Add comments section
+- [ ] Add comments section / https://mmistakes.github.io/minimal-mistakes/docs/configuration/#front-matter-defaults
 - [ ] Change the main background image of the seminars
 - [ ] Add slides show to the website, maybe with https://gitpitch.com/
+
+
 
 
 
