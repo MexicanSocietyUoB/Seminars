@@ -1,8 +1,6 @@
 # main links
 main:
-  - title: "Seminars"
+  - title: "Comming Seminars"
     url: /collection-archive/
-  - title: "Members"
-    url: /year-archive/
   - title: "About"
     url: https://mexicansocietyuob.github.io/seminars/about/

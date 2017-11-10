@@ -17,11 +17,24 @@ tags:
 Alejandro Vigna-Gomez, third year PhD student in Astrophysics,
 talked about ""
 
-Her presentation is titled as "The Death of Starts"
-and it is available [here](https://github.com/MexicanSocietyUoB/seminars/blob/master/assets/slides/avigna-gomez102017/slides.pdf)
+His presentation is titled as "The Death of Starts"
+and it is available [here](https://github.com/MexicanSocietyUoB/seminars/blob/master/assets/slides/avigna-gomez102017/MexSocSeminarShort.pdf)
 
 
 ## Abstract
-
+When massive stars end their life they can become either a neutron star or black hole.
+In this talk, we go through the basic concepts in astrophysics which allow us to
+understand the fate of these massive stars. We start by defining what is a star.
+We then describe the evolution of a star until death and how to determine what
+will its remnant be. Finally, we comment on an alternative model,
+the pair-instability supernova, which leaves no remnant at all.
 
 ## Author
+Alejandro Vigna-Gómez is originally from San Luis Potosí, Mexico.
+He received his bachelor degree in theoretical physics at the U.A.S.L.P.
+He is mainly interested in researching about the progenitors of neutron stars
+and black holes, single or binary. He is currently doing a PhD in Astrophysics
+under the supervision of
+[Prof. Ilya Mandel](https://www.birmingham.ac.uk/staff/profiles/physics/mandel-ilya.aspx).
+Additionally to that, he is enthusiastic about football and passionate
+about philosophy.

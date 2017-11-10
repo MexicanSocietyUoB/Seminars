@@ -1,17 +1,142 @@
 
 
 
-# Seminar for 13th October
+## TODO LIST FOR NOVEMBER 2017
+
+- [ ] Create a list for possible spekers for next term
+- [ ] Cristina suggests to present on December!
+- [ ] Create the members site
+- [ ] Add comments section
+- [ ] Change the main background image of the seminars
+- [ ] Add slides show to the website, maybe with https://gitpitch.com/
+
+
+
+# MESSAGES FOR SPEAKERS
+
+# Seminar for 10th November 2017
+
+
+
+Dear Elian,
+
+
+As far as I know, you want to present your work for the seminar.
+
+The science seminars of the Mexican society will take place
+next Friday the 10th of November 2017 at 18:00 at Learning Centre UG05.
+
+We need the following information:
+
+* TITLED OF YOUR PRESENTATION:
+
+* Would you please complete the following short-bio?
+
+Elian Huesca is originally from ???, Mexico.
+He received her bachelor degree in ??? at ???.
+He is mainly interested in ???.
+Elian did a Master in ??? under the supervision of ???
+Additionally to that, he is enthusiastic about ??? and ???.
+You can add anything extra
+
+* Would you please share three keywords related to your lines of research:
 
 
 
 
 
+
+
+
+
+
+Dear Emanuel  
+
+We like to thank you for taking your time for preparing and presenting such
+an interesting talk at the science seminars of the Mexican Society. We would
+also like to let know that we are updating the website of the seminar for
+which we need that you send us your presentation and fill the following
+information:
+
+## Abstract for the presentation
+
+## Author
+Emanuel Bourges is originally from Mexico City. He studied a Bacherlor's in
+History and a master's degree in Government and Public Affairs at the
+National University of Mexico. He has researched on contemporary Mexico and
+Spain, and is interested in comparative politics, political economy and
+political contemporary history.
+He is currently doing a PhD in ??? under the supervision of ???
+
+
+
+Dear Alejandro
+
+We like to thank you for taking your time for preparing and presenting such
+an interesting talk at the science seminars of the Mexican Society. We would
+also like to let know that we are updating the website of the seminar for
+which we need that you send us your presentation and fill the following
+information:
+
+## Abstract for the presentation
+
+## Author
+
+Alejandro Vigna-Gómez is originally from San Luis Potosí, Mexico.
+He received his bachelor degree in theoretical physics at the U.A.S.L.P.
+He is mainly interested in researching about the progenitors of neutron
+stars and black holes, single or binary.
+He is currently doing a PhD in ??? under the supervision of ???
+Additionally to that, he is enthusiastic about football and passionate
+about philosophy.
+
+
+
+
+
+Dear Frida,
+
+We remind you that the science seminars of the Mexican society will take place
+next Friday the 10th of November 2017 at 18:00 at Learning Centre UG05.
+
+Would you please complete the following short-bio? It is needed for the
+presentation:
+Frida Estrella is originally from ???, Mexico.
+She received her bachelor degree in ??? at ???.
+She is mainly interested in ???.
+Frida is currently doing a Master in ??? under the supervision of ???
+Additionally to that, she is enthusiastic about ??? and ???.
+
+Would you please share three keywords related to your lines of research:
+
+
+
+
+Dear Jorge,
+
+We remind you that the science seminars of the Mexican society will take place
+next Friday the 10th of November 2017 at 18:00 at Learning Centre UG05.
+
+
+Would you please complete the following short-bio? It is needed for the
+presentation:
+
+Jorge Bouchot is originally from ???, Mexico.
+He received her bachelor degree in ??? at ???.
+He is mainly interested in ???.
+Jorge is currently doing a PhD in ??? under the supervision of ???
+Additionally to that, he is enthusiastic about ??? and ???.
+
+Would you please share three keywords related to your lines of research:
+
+
+
+
+
+# Seminar for 13th October 2017
 
 
 - [ ] Update the authors and create two post for speakers.
-- [ ]
-
 
 Hi Emanuel,
 

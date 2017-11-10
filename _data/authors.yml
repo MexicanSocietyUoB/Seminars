@@ -45,3 +45,27 @@ Alejandro Vigna-Gomez:
   bio: "Astrophysics, Neutron Starts, Black Holes"
   avatar: "/assets/images/bio-photo-2.jpg"
   twitter: "avigna-gomez"
+
+Frida Estrella:
+  name: "Frida Estrella"
+  uri: "http://mywebpage.mx"
+  email: "@bham.ac.uk"
+  bio: "X,Y,X"
+  avatar: "/assets/images/bio-photo-3.jpg"
+  twitter: "festrella"
+
+Jorge Bouchot:
+  name: "Jorge Bouchot"
+  uri: "http://mywebpage.mx"
+  email: "@bham.ac.uk"
+  bio: "X,Y,Z"
+  avatar: "/assets/images/bio-photo-2.jpg"
+  twitter: "jbouchot"
+
+Elian Huesca:
+  name: "Elian Huesca"
+  uri: "http://mywebpage.mx"
+  email: "@bham.ac.uk"
+  bio: "X,Y,Z"
+  avatar: "/assets/images/bio-photo-2.jpg"
+  twitter: "ehuesca"
