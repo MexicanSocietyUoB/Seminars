@@ -3,7 +3,7 @@
 # TODO LIST FOR 2017
 
 
-## - [X] Add comments section / https://mmistakes.github.io/minimal-mistakes/docs/configuration/#front-matter-defaults
+## - [ ] Add comments section / https://mmistakes.github.io/minimal-mistakes/docs/configuration/#front-matter-defaults
 
 Step 1. Add Staticman to your repository
 
@@ -20,6 +20,8 @@ https://staticman.net/docs/index.html
 Step 4. Approve entries (optional)
 
 If you enable content moderation (by setting moderation: true in the config), I will send a pull request whenever a new entry is submitted. Merge the pull request to approve it, or close to discard.
+
+Continue the exploration to make it work on the following links https://github.com/mmistakes/minimal-mistakes/issues/1308#issuecomment-337437135
 
 
 ## - [ ] Create a list for possible spekers for next term
