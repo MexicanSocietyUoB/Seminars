@@ -25,11 +25,12 @@ His presentation is available [here](https://github.com/MexicanSocietyUoB/semina
 
 
 ## Author
-Elian Huesca is originally from the City of Puebla and since 2013 a resident of
-Mexico City. He studied a BA in International Relations in BUAP with academic
-exchanges to UNAM and the University of Birmingham. Recently, he finished a MA
-in Migration, Superdiversity and Policy under the supervision of
-[Nando Sigona](https://www.birmingham.ac.uk/staff/profiles/social-policy/sigona-nando.aspx).
+Elian Huesca is originally from Puebla Mexico and since 2013 a resident of
+Mexico City. He studied a Bachelor in Administration in International Relationships
+in the Benemérita Universidad Autónoma de Puebla with academic
+exchanges to Universidad Nacional Autónoma de México and the University of Birmingham.
+Recently, he finished a Master in Administration in Migration, Superdiversity
+and Policy under the supervision of [Nando Sigona](https://www.birmingham.ac.uk/staff/profiles/social-policy/sigona-nando.aspx).
 His research interests range from global migration, urban mobility design,
 drug policy reform, sociology of technology and more recently Bitcoin,
 blockchain and cryptocurrencies.

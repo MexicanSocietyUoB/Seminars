@@ -21,7 +21,7 @@ for snack and refreshments for the assistances.
 Contacting speakers
 
 
-Hola Waldo,
+Hola X,
 
 Queremos saber si te interesa presentar tu trabajo de investigaci'on
 en los seminarios de ciencia de la Sociedad Mexicana.

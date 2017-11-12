@@ -6,6 +6,7 @@ Name Surname:
   bio: "Keyword, Keyword, Keyword"
   avatar: "/assets/images/bio-photo-2.jpg"
   twitter: "MexicanScientist"
+  github: "MexicanScientist"
 
 Cornelius Fiddlebone:
   name: "Cornelius Fiddlebone"
@@ -13,6 +14,7 @@ Cornelius Fiddlebone:
   bio: "I ordered what?"
   avatar: "/assets/images/bio-photo.jpg"
   twitter: "rhymeswithsackit"
+  github: "rhymeswithsackit"
 
 Saul Basurto:
   name: "Saúl Basurto Hernández"
@@ -21,6 +23,7 @@ Saul Basurto:
   bio: "Economics, Climate Change"
   avatar: "/assets/images/bio-photo-2.jpg"
   twitter: "sbasurto"
+  github: "sbasurto"
 
 Cecilia Zuniga:
   name: "Cecilia Zuñiga"
@@ -29,6 +32,7 @@ Cecilia Zuniga:
   bio: "Language development, Language and cognition"
   avatar: "/assets/images/bio-photo-3.jpg"
   twitter: "czuniga"
+  github: "czuniga"
 
 Emanuel Bourges:
   name: "Emanuel Bourges"
@@ -37,6 +41,7 @@ Emanuel Bourges:
   bio: "Social Science, Umemployement"
   avatar: "/assets/images/bio-photo-2.jpg"
   twitter: "ebourges"
+  github: "ebourges"
 
 Alejandro Vigna-Gomez:
   name: "Alejandro Vigna-Gomez"
@@ -45,6 +50,7 @@ Alejandro Vigna-Gomez:
   bio: "Astrophysics, Neutron Starts, Black Holes"
   avatar: "/assets/images/bio-photo-2.jpg"
   twitter: "avigna-gomez"
+  github: "avigna-gomez"
 
 Jorge Bouchot:
   name: "Jorge Bouchot"
@@ -53,6 +59,7 @@ Jorge Bouchot:
   bio: "Minimum Wage, Informal Employment, Distribution of Earnings"
   avatar: "/assets/images/bio-photo-2.jpg"
   twitter: "jbouchot"
+  github: "jbouchot"
 
 Elian Huesca:
   name: "Elian Huesca"
@@ -61,6 +68,7 @@ Elian Huesca:
   bio: "Global Migration, Sociology of Technology, Cryptocurrencies"
   avatar: "/assets/images/bio-photo-2.jpg"
   twitter: "ehuesca"
+  github: "ehuesca"
 
 Frida Estrella:
   name: "Frida Estrella"
@@ -69,3 +77,6 @@ Frida Estrella:
   bio: "X,Y,X"
   avatar: "/assets/images/bio-photo-3.jpg"
   twitter: "festrella"
+  github: "festrella"
+
+   
