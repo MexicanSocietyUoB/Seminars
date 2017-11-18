@@ -1,5 +1,5 @@
 ---
-title: "Ways that Lesbian and bisexual woman negotiate LGTB NGO's in Mexico"
+title: "Counting to infinity and more in 20 minutes (ish)."
 author: Cristina Villanueva
 header:
   teaser: "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
@@ -14,7 +14,7 @@ tags:
 ---
 
 Cristina Villanueva, a recently graduated PhD in Pure Mathematics, is going
-to speak about "Counting to infinity and more in 20 minutes (ish)."
+to speak about "Counting to infinity and more in 20 minutes (ish)".
 
 Her presentation is available [here](https://github.com/MexicanSocietyUoB/seminars/blob/master/assets/slides/~/slides.pdf)
 

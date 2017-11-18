@@ -1,5 +1,6 @@
 ---
-title: "Ways that Lesbian and bisexual woman negotiate LGTB NGO's in Mexico"
+title: "An investigation into the ways that lesbian and bisexual
+women negotiate dynamics within LGBT NGOs in Mexico"
 author: Frida Estrella
 header:
   teaser: "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
