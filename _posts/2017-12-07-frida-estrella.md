@@ -7,7 +7,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 categories:
   - Seminars
-  - Master Science
+  - PhD
   - Talks
 tags:
   - X
