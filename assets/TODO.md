@@ -24,7 +24,7 @@ If you enable content moderation (by setting moderation: true in the config), I 
 Continue the exploration to make it work on the following links https://github.com/mmistakes/minimal-mistakes/issues/1308#issuecomment-337437135
 
 
-## - [ ] Create a list for possible spekers for next term
+## - [ ] Create a list for possible speakers for next term
 
 - [ ] Create the members site
 - [ ] Change the main background image of the seminars
