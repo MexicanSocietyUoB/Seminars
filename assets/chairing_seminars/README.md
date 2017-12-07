@@ -2,7 +2,6 @@
 
 
 
-
 # Create a protocol for chairing the talks
 
 These are some easy steps to follow for the chair:
@@ -25,3 +24,9 @@ to make a more professional and engaging session.
 # References
 
 The previous advices were taken from [recommendations for the mexican symposiummx](https://raw.githubusercontent.com/mxochicale/symposiummx/master/2017/RECOMENDATIONS.md)
+
+
+# SOME SUGGESTIONS
+
+* set up the computer and check the speakers, slides, and access to videos.
+*

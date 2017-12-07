@@ -1,9 +1,13 @@
+TODO
+---
+
+## template
+- [ ] Activity _(CREATED: SORTED: COMMIT(s): )_
+
+## TODO LIST
 
 
-# TODO LIST FOR 2017
-
-
-## - [ ] Add comments section / https://mmistakes.github.io/minimal-mistakes/docs/configuration/#front-matter-defaults
+- [ ] Add comments section / https://mmistakes.github.io/minimal-mistakes/docs/configuration/#front-matter-defaults
 
 Step 1. Add Staticman to your repository
 
@@ -24,24 +28,25 @@ If you enable content moderation (by setting moderation: true in the config), I 
 Continue the exploration to make it work on the following links https://github.com/mmistakes/minimal-mistakes/issues/1308#issuecomment-337437135
 
 
-## - [ ] Create a list for possible speakers for next term
-
 - [ ] Create the members site
-- [ ] Change the main background image of the seminars
-- [ ] Add slides show to the website, maybe with https://gitpitch.com/
-- [ ] Embed https://issuu.com/ PDF presentations in the posts
 
-- [ ] Create google form or doodle form for the speakers. Something like [this](https://www.youtube.com/watch?v=bWN4W2aE0Y0)
-- [ ] Explore /docs in the seminars repository
 
 - [ ] contact previous speakers and ask them about the information that is presented
 in the webpage
+
+
+- [ ] Add slides show to the website, maybe with https://gitpitch.com/
+
+- [ ] Embed https://issuu.com/ PDF presentations in the posts
+
+- [ ] Create google form or doodle form for the speakers. Something like [this](https://www.youtube.com/watch?v=bWN4W2aE0Y0)
+
 
 - [ ] Create a search bar like the one in ciudaddelasideas in order to have the following
 bar: SEARCH[]  CATEGORIES[] YEAR[]. This is the example https://www.ciudaddelasideas.com/ponentes.php
 
 
-
+- [ ] Explore /docs in the seminars repository
 
 - [ ] Create a gmail account:
 
@@ -60,11 +65,19 @@ presenters.
 
 
 
+##  Possible Speakers for 2017/2018
+ - [ ] ~~Marco~~ (thesis stage),
+ - [ ] Marisol,
+ - [ ] Samantha,
+ - [ ] Ana quevedo,
+ - [ ] Fabricio,
+ - [ ] ~~Fernanda~~ (back to mex in jan2018),
+ - [ ] ~~Frida~~ (talk in december 2017),
+ - [ ] ~~Jorge~~ (talk in october 2017),
+ - [ ] Gerardo,
+ - [ ] Xuan,
+ - [ ] ~~Perla~~ (talk in March 2017)
 
-# DONE
-
-- [X] ~~fixed the links for the presenters~~
-- [X] ~~use splash layout for the home page~~
 
 
 # ADDITIONALS
@@ -72,206 +85,9 @@ presenters.
 
 
 
-
-
-
-# SPEAKERS
-
-
-##  Possible Speakers for 2017/2018
-
-- [ ] Create a list for the possible next speakers and contact them.
-by sharing the next seminar
-
-Marco, Marisol, Samantha, Ana quevedo, Fabricio, Fernanda, Frida,
-Jorge, Gerardo, Xuan, Perla
-
-
-
-## Seminar for 10th November 2017
-
-
-
-Dear Elian,
-
-
-As far as I know, you want to present your work for the seminar.
-
-The science seminars of the Mexican society will take place
-next Friday the 10th of November 2017 at 18:00 at Learning Centre UG05.
-
-We need the following information:
-
-* TITLED OF YOUR PRESENTATION:
-
-* Would you please complete the following short-bio?
-
-Elian Huesca is originally from ???, Mexico.
-He received her bachelor degree in ??? at ???.
-He is mainly interested in ???.
-Elian did a Master in ??? under the supervision of ???
-Additionally to that, he is enthusiastic about ??? and ???.
-You can add anything extra
-
-* Would you please share three keywords related to your lines of research:
-
-
-
-
-
-
-
-Dear Emanuel  
-
-We like to thank you for taking your time for preparing and presenting such
-an interesting talk at the science seminars of the Mexican Society. We would
-also like to let know that we are updating the website of the seminar for
-which we need that you send us your presentation and fill the following
-information:
-
-## Abstract for the presentation
-
-## Author
-Emanuel Bourges is originally from Mexico City. He studied a Bacherlor's in
-History and a master's degree in Government and Public Affairs at the
-National University of Mexico. He has researched on contemporary Mexico and
-Spain, and is interested in comparative politics, political economy and
-political contemporary history.
-He is currently doing a PhD in ??? under the supervision of ???
-
-
-
-Dear Alejandro
-
-We like to thank you for taking your time for preparing and presenting such
-an interesting talk at the science seminars of the Mexican Society. We would
-also like to let know that we are updating the website of the seminar for
-which we need that you send us your presentation and fill the following
-information:
-
-## Abstract for the presentation
-
-## Author
-
-Alejandro Vigna-Gómez is originally from San Luis Potosí, Mexico.
-He received his bachelor degree in theoretical physics at the U.A.S.L.P.
-He is mainly interested in researching about the progenitors of neutron
-stars and black holes, single or binary.
-He is currently doing a PhD in ??? under the supervision of ???
-Additionally to that, he is enthusiastic about football and passionate
-about philosophy.
-
-
-
-
-
-Dear Frida,
-
-We remind you that the science seminars of the Mexican society will take place
-next Friday the 10th of November 2017 at 18:00 at Learning Centre UG05.
-
-Would you please complete the following short-bio? It is needed for the
-presentation:
-Frida Estrella is originally from ???, Mexico.
-She received her bachelor degree in ??? at ???.
-She is mainly interested in ???.
-Frida is currently doing a Master in ??? under the supervision of ???
-Additionally to that, she is enthusiastic about ??? and ???.
-
-Would you please share three keywords related to your lines of research:
-
-
-
-
-Dear Jorge,
-
-We remind you that the science seminars of the Mexican society will take place
-next Friday the 10th of November 2017 at 18:00 at Learning Centre UG05.
-
-
-Would you please complete the following short-bio? It is needed for the
-presentation:
-
-Jorge Bouchot is originally from ???, Mexico.
-He received her bachelor degree in ??? at ???.
-He is mainly interested in ???.
-Jorge is currently doing a PhD in ??? under the supervision of ???
-Additionally to that, he is enthusiastic about ??? and ???.
-
-Would you please share three keywords related to your lines of research:
-
-
-
-
-
-# Seminar for 13th October 2017
-
-
-- [ ] Update the authors and create two post for speakers.
-
-Hi Emanuel,
-
-this is a reminder for the your talk in the Science Seminars Series of the
-Mexican Society which will be this Friday at the Learning centre at 18h00.
-Your presentation should be for around 20 minutes and you will get 10 minutes
-for questions.
-NB. Bring your presentation in PDF to avoid any problems with the office version
-or font and margin configurations.
-
-With regard to your talk, we want that our audience know the quality of the Mexican
-science and the creation of new knowledge in many disciplines and, if possible,
-we want that you share your research advances in a provocative and enthusiastic
-talk to a general audience.
-Would you please share me a very short bio in order to present you in the seminar?
-
-"
-Emanuel Bourges is originally from Mexico City. He studied a Bacherlor's in
-History and a master's degree in Government and Public Affairs at the
-National University of Mexico. He has researched on contemporary Mexico and
-Spain, and is interested in comparative politics, political economy and
-political contemporary history.
-"
-
-
-Hi Alejandro,
-
-this is a reminder for the your talk in the Science Seminars Series of the
-Mexican Society which will be this Friday at the Learning centre at 18h00.
-Your presentation should be for around 20 minutes and you will get 10 minutes
-for questions.
-NB. Bring your presentation in PDF to avoid any problems with the office version
-or font and margin configurations.
-
-With regard to your talk, we want that our audience know the quality of the Mexican
-science and the creation of new knowledge in many disciplines and, if possible,
-we want that you share your research advances in a provocative and enthusiastic
-talk to a general audience.
-
-Would you please share me a very short bio in order to present you in the seminar?
-
-"
-Alejandro Vigna-Gómez is originally from San Luis Potosí, Mexico.
-He received his bachelor degree in theoretical physics at the U.A.S.L.P.
-He is mainly interested in researching about the progenitors of neutron stars and black holes, single or binary.
-He is enthusiastic about football and passionate about philosophy.
-"
-
-
-
-
-
-
-
-EstimadX ,
-
-espero que todo ande marchando bien en tu trabajo y tu investigaci'on
-Te recuerdo que tenemos una pl'atica de la serie de seminarios de ciencia de
-la sociedad mexicana el viernes 13 a las 6 en el learning centre (https://www.facebook.com/events/1957405344529591/).
-Please, no faltes. Te esperamos para compartir con otros mexicanos lo que estamos
-haciendo  con respecto a los avances de nuestras investigaci'on y con el fin de
-divulgar a una audiencia general la calidad de la ciencia mexicana.
-
-Por 'ultimo, quiseramos saber si estar interesando en dar una platica
-para el 10 November 2017 o el 14 December 2017.
-
-Saludos fuertes!
+# SORTED
+
+ - [X] ~~fixed the links for the presenters~~
+ - [X] ~~use splash layout for the home page~~
+ - [x] Change the main background image of the seminars for the poster seminars
+ - [x] Create a list for possible speakers for next term
