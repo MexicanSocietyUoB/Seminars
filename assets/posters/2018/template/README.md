@@ -17,5 +17,4 @@ inkscape --export-png pt_v10.png drawing_v1x.svg
 We have
 These are the speaker for next year:
 
-
 https://mexicansocietyuob.github.io/seminars/seminars/talks/talks2018/

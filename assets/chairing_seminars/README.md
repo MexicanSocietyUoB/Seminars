@@ -1,7 +1,4 @@
 
-
-
-
 # Create a protocol for chairing the talks
 
 These are some easy steps to follow for the chair:
@@ -29,5 +26,5 @@ The previous advices were taken from [recommendations for the mexican symposiumm
 # SOME SUGGESTIONS
 
 * set up the computer and check the speakers, slides, and access to videos.
-* make sure that the speakers share his/her presentation, abstract and short bio
+* make sure that the speakers share their presentation, abstract and short bio
 before the talk
