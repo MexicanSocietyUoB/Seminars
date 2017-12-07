@@ -31,4 +31,5 @@ from the sexual rights discourse of the UN".
 In 2016, she started a PhD at the University of Birmingham in Political
 Sciences and International Studies. Her PhD research is titled:
 "An investigation into the ways that lesbian and bisexual women negotiate
-LGBT NGOs in Mexico".
+LGBT NGOs in Mexico" under the supervision of
+[Emma Foster](https://www.birmingham.ac.uk/schools/government-society/departments/political-science-international-studies/staff/profiles/foster-emma.aspx)

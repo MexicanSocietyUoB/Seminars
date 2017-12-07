@@ -29,4 +29,5 @@ The previous advices were taken from [recommendations for the mexican symposiumm
 # SOME SUGGESTIONS
 
 * set up the computer and check the speakers, slides, and access to videos.
-*
+* make sure that the speakers share his/her presentation, abstract and short bio
+before the talk
