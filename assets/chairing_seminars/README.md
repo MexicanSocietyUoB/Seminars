@@ -22,8 +22,7 @@ to make a more professional and engaging session.
 
 The previous advices were taken from [recommendations for the mexican symposiummx](https://raw.githubusercontent.com/mxochicale/symposiummx/master/2017/RECOMENDATIONS.md)
 
-
-# SOME SUGGESTIONS
+# GENERAL SUGGESTIONS
 
 * set up the computer and check the speakers, slides, and access to videos.
 * make sure that the speakers share their presentation, abstract and short bio
