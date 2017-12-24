@@ -2,7 +2,7 @@
 main:
   - title: "Comming Seminars"
     url: https://mexicansocietyuob.github.io/seminars/seminars/talks/talks2018/
-- title: "Information for Speakers"
+  - title: "Information for Speakers"
     url: https://mexicansocietyuob.github.io/seminars/speakersinfo/
   - title: "About"
     url: https://mexicansocietyuob.github.io/seminars/about/
