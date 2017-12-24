@@ -7,8 +7,10 @@ we are kindly inviting you to share your research advances in an
 enthusiastic, engaging and provocative talk for a general audience.
 With this in mind, we essentially require you to share the following information
 before your talk:
-(1) an short abstract, (2) keywords, (3) a 20-minute presentation
-and (4) a short biography.
+* (1) a short abstract (maximum 150 words),
+* (2) three keywords,
+* (3) a 20-minute presentation in PDF, and
+* (4) a short biography (maximum 200 words).
 
 Our goal with the Science Seminars is sharing to the international and to the
 Mexican community what the students of University of Birmingham are doing in

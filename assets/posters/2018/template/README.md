@@ -26,8 +26,8 @@ Well, this time we want to announce the speakers for 2018
 We invite anyone to assist and be part of the speakers, be part of the audience
 where we create a friendly to share knowledge.
 So, if you have a conference presentation coming up, or are
-working on a paper/other research idea you would like to give a
-presentation on/get feedback about, please feel free to volunteer to
+working on a paper or other research idea you would like to give a
+presentation on and get feedback about, please feel free to volunteer to
 give a talk to our friendly audience!
 
 Please help us to circulate the seminar series of the Mexican society for 2018.
