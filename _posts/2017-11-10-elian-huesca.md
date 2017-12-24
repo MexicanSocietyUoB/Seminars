@@ -18,7 +18,7 @@ Elian Huesca, a 2017 graduated Master in Migration, Superdiversity and Policy,
 talked about "What is Bitcoin? The future of money".
 
 
-His presentation is available [here](https://github.com/MexicanSocietyUoB/seminars/blob/master/assets/slides/ehuesca112017/slides.pdf)
+His presentation is available [here]( https://prezi.com/p/tgghjnrxcabn/)
 
 
 ## Abstract

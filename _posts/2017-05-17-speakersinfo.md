@@ -5,14 +5,16 @@ title: "General Information for Speakers"
 As a speaker for the Science Seminars of the Mexican Society,
 we are kindly inviting you to share your research advances in an
 enthusiastic, engaging and provocative talk for a general audience.
-With this in mind, we essentially require you to share the following information:
+With this in mind, we essentially require you to share the following information
+before your talk:
 (1) an short abstract, (2) keywords, (3) a 20-minute presentation
 and (4) a short biography.
 
-Our goal with the Science Seminars is sharing to the international and to the Mexican community
-what the students of University of Birmingham are doing in their areas of research.  
+Our goal with the Science Seminars is sharing to the international and to the
+Mexican community what the students of University of Birmingham are doing in
+their areas of research.  
 We are also encouraging the community to work towards a reproducible and open
-science where anyone, anywhere can get the benefits of doing science.
+science where anyone, anywhere can get the benefits of Science
 
 ## Requirements
 
@@ -31,9 +33,15 @@ Try to put a bit of imagination and create a provocative title.
 We want that our audience feel the power of science and the creation of new knowledge.
 
 ##### (4) Presentation
-Prepare a 20-minutes presentation in English language that is targeted for a
-general audience. Your presentation will be available in the Science Seminar's
-website to which the content should be under the creative commons licence.
+The presentation should be 20 minutes followed by 10
+minutes questions. The presentation is in English language and is targeted for a
+general audience.
+If possible, the presentation should cover introduction to the topic highlighting
+the novelty and contribution to knowledge, the methodology used in the research,
+results and conclusions.
+
+Your presentation is going to be available in the Science Seminar's
+website for which we require that your content is under the creative commons licence.
 
 We suggest to read these references to structure your presentation
 [(Corticalia 2016)](https://corticalia.wordpress.com/2016/06/19/how-to-structure-a-presentation/).
