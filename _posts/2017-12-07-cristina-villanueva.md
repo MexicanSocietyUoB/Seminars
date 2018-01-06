@@ -15,12 +15,16 @@ tags:
 Cristina Villanueva, a recently graduated PhD in Pure Mathematics, is going
 to speak about "Counting to infinity and more in 20 minutes (ish)".
 
-Her presentation is available [here](https://github.com/MexicanSocietyUoB/seminars/blob/master/assets/slides/~/slides.pdf)
+Her presentation is available [here](https://github.com/MexicanSocietyUoB/seminars/blob/master/assets/slides/cvillanueva122017/slides.pdf)
 
 ## Abstract
 The main idea of this talk is to explain the concept of infinity form the
 mathematical point of view without assuming (almost) any mathematical background.
 Hopefully this would also give a taste of what mathematics are.
+
+This video were played while Cristina talked to the audience:
+[3:14:15 hours of relaxing "white noise" Pi music - 81,590 digits of Pi!](https://www.youtube.com/watch?v=36wPH0w5UD0)
+
 
 ## Author
 Cristina was born in Mexico City, where she completed her bachelor’s and master’s
