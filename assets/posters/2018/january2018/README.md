@@ -5,7 +5,7 @@
 inkscape --export-png poster_january2018_v00.png drawing.svg
 ```
 
-## MESSAGE
+## MESSAGE OF THE EVENT ON FACEBOOK FOR THE JANUARY SEMINAR
 
 Science Seminars of the Mexican Society 2018
 
@@ -40,6 +40,9 @@ FREE ENTRANCE!
 Visit the website of the seminars where you can find further information:
 https://mexicansocietyuob.github.io/seminars/
 
+## POSTER
+https://mexicansocietyuob.github.io/seminars/assets/posters/2018/january2018/poster/poster_january2018_v00.png
+
 
 
 # CONTACTING THE speaker(s)
@@ -66,9 +69,19 @@ information before your talk (the 26th of January 2018):
 You can find more information about the presentation requirements in
 this link: https://mexicansocietyuob.github.io/seminars/speakersinfo/.
 If you have any question, please let me know.
-
 * Your presentation should be under any of the following [creative commons licences](https://creativecommons.org/licenses/)
 * If possible, you can upload the presentation in this website: https://figshare.com/
 
-
 Best regards
+
+# FOR THE SEMINAR
+
+Giovani was born in Guadalajara, where he coursed his Bachelor’s in Civil Engineering
+and Master’s degree in Business and Economic Studies at Universidad de Guadalajara.
+He is currently doing his PhD in Civil Engineering.
+Before arriving to the UK, he spent over five years in different areas of the
+construction industry in Guadalajara. His professional experience goes
+from audits on government construction projects to building households from scratch
+and elaborating all costs and budgets of vertical projects for a large company
+at his hometown.
+Additionally to that, he is a sports, cooking and languages enthusiast.

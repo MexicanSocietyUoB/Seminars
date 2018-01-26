@@ -87,3 +87,12 @@ Cristina Villanueva:
   avatar: "/assets/images/bio-photo-3.jpg"
   twitter: "cvillanueva"
   github: "cvillanueva"
+
+Giovani Palafox:
+  name: "Giovani Palafox"
+  uri: "http://mywebpage.mx"
+  email: "@bham.ac.uk"
+  bio: "Circular economy; game theory; energy park"
+  avatar: "/assets/images/bio-photo-2.jpg"
+  twitter: "palafox"
+  github: "palafox"
