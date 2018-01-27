@@ -74,6 +74,18 @@ If you have any question, please let me know.
 
 Best regards
 
+SECOND EMAIL
+Dear
+
+Thank you very much for your giving a quite fantastic talk.
+Let me share you the link where your information has been posted: https://mexicansocietyuob.github.io/seminars/seminars/phd/talks/giovani-palafox/
+If you want to add or change something, please let me know.
+
+Also, whenever you have time, please send me your presentation as a PDF file to update the website.
+
+Regards
+
+
 # FOR THE SEMINAR
 
 Giovani was born in Guadalajara, where he coursed his Bachelor’s in Civil Engineering
