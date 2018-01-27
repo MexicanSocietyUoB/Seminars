@@ -42,30 +42,32 @@ Visit the website of the seminars where you can find further information:
 https://mexicansocietyuob.github.io/seminars/
 
 ## POSTER
-https://mexicansocietyuob.github.io/seminars/assets/posters/2018/january2018/poster/poster_january2018_v00.png
+https://raw.githubusercontent.com/MexicanSocietyUoB/seminars/master/assets/posters/2018/february2018/poster/poster_february2018_v00.png
+
 
 
 
 # CONTACTING THE speaker(s)
+EMAIL(s):
+PJV525@student.bham.ac.uk, Perla Vega
+M.Perez-Toledo@bham.ac.uk, Marisol Perez-Toledo
 
-PXP296@student.bham.ac.uk
+SUBJECT:
 Science Seminars of the Mexican Society 2018
 
-
+CONTENT:
 Dear ,
 
-Hope you are doing fine in your  progress, well I am here to share
-you the poster for the next seminars (https://mexicansocietyuob.github.io/seminars/seminars/talks/talks2018/).
-If you want me to change something, please let me know.
+On behalf of the Mexican Society, I hope you are doing fine in your personal and professional projects.
+I am writing this email to share you the poster for the next seminars (https://raw.githubusercontent.com/MexicanSocietyUoB/seminars/master/assets/posters/2018/february2018/poster/poster_february2018_v00.png). If you want me to change something, please let me know.
 
 Regarding your presentation, would you be kindly enough to send me the following
-information before your talk (the 26th of January 2018):
+information before your talk (the 23th of February 2018):
 
 (1) a short abstract (maximum 150 words),
 (2) three keywords,
-(3) a 20-minute presentation in PDF*, and
-(4) a short biography (maximum 200 words).
-
+(4) a short biography (maximum 200 words), and
+(3) a 20-minute presentation in PDF (this can be send on the day of the seminar)*
 
 You can find more information about the presentation requirements in
 this link: https://mexicansocietyuob.github.io/seminars/speakersinfo/.
@@ -73,6 +75,7 @@ If you have any question, please let me know.
 * Your presentation should be under any of the following [creative commons licences](https://creativecommons.org/licenses/)
 * If possible, you can upload the presentation in this website: https://figshare.com/
 
-Best regards
+P.S. I will send you reminders on the second and third week of February
+
 
 # FOR THE SEMINAR
