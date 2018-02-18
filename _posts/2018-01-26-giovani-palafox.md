@@ -17,7 +17,9 @@ This time, Giovani Palafox, a second year PhD in Civil Engineering,
 is is going to speak about "Facilitating the transition towards Circular
 Economy business models in an energy park"
 
-His presentation is available [here](https://github.com/MexicanSocietyUoB/seminars/blob/master/assets/slides/~/slides.pdf)
+His presentation is available [here](https://github.com/MexicanSocietyUoB/seminars/blob/master/assets/slides/gpalafox012018/slides.pdf)
+
+
 
 ## Abstract
 Circular economy provides for a more effective approach to resource management in which resources are fed back into the system rather than being ‘lost’. For a successful transition towards a circular economy, its principles need to be the guideline in the design of business models. However, conflictive objectives are likely to arise in the implementation stage; making collaboration among stakeholders essential, and yet this is proving difficult to attain in practice. Game theory is presented as a method to compare the optimality and stability results of the negotiation process, this implies improving economic efficiency, environmental responsibility and social cohesion. The study is being conducted in the context of the Tyseley Energy Park in Birmingham, UK. Several operational and arrangement changes are being aligned to circularity in their portfolio of business models. Successful cooperation would allow the capture of multiple forms of value, many deriving from infrastructure interdependencies, in an energy infrastructure park aiming to become a national exemplar.
