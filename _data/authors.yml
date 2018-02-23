@@ -96,3 +96,25 @@ Giovani Palafox:
   avatar: "/assets/images/bio-photo-2.jpg"
   twitter: "palafox"
   github: "palafox"
+
+
+Perla Vega:
+  name: "Cristina Villanueva"
+  uri: "http://mywebpage.mx"
+  email: "@bham.ac.uk"
+  bio: "Mycobacterium, biofilm, characterization"
+  avatar: "/assets/images/bio-photo-3.jpg"
+  twitter: "cvillanueva"
+  github: "cvillanueva"
+
+
+Marisol Perez-Toledo:
+  name: "Marisol Perez-Toledo"
+  uri: "http://mywebpage.mx"
+  email: "@bham.ac.uk"
+  bio: "Salmonella, infection, platelets"
+  avatar: "/assets/images/bio-photo-3.jpg"
+  twitter: "mpereztoledo"
+  github: "mpereztoledo"
+
+
