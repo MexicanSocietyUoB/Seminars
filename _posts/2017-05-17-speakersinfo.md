@@ -13,27 +13,27 @@ we are kindly inviting you to share your research advances in an
 enthusiastic, engaging and provocative talk for a general audience.
 We essentially require you to share the following information
 before your talk:
-* (0) Title of the talk.
-* (1) a short abstract of the talk (maximum 150 words),
-* (2) three keywords,
-* (3) a short biography (maximum 200 words).
-* (4) a 20-minute presentation in PDF, and
+* (1) Title of the talk.
+* (2) a short abstract of the talk (maximum 150 words),
+* (3) three keywords,
+* (4) a short biography (maximum 200 words).
+* (5) a 20-minute presentation in PDF, and
 
-## Requirements
+# Requirements
 
-#### (0) Title of the talk
+## (1) Title of the talk
 Put a bit of imagination and create a provocative title.
 We want that our audience feel the power of science and the creation of new knowledge.
 
-#### (1) Abstract
+## (2) Abstract
 We recommend you to write an abstract of approximately 150 word.
 [How to construct a Nature summary paragraph](https://github.com/MexicanSocietyUoB/Seminars/blob/master/assets/presentations/Letter_bold_para.pdf)
 is a good reference of both well written and well structured abstract.
 
-#### (2) Keywords
+## (3) Keywords
 Provide from three to five keywords going from general to specific areas of your research.
 
-#### (3) Short Biography
+## (4) Short Biography
 Create a short biography of maximum 200 words. We also encourage you to share your
 contact details such as Webpage, twitter, Facebook, github and e-mail.
 This is optional, but it would be nice if you have a photo to add you in the
@@ -48,7 +48,7 @@ X species for the first time”
 [(Puljak, 2008)](http://www.labtimes.org/labtimes/method/methods/2008_02.lasso).
 
 
-#### (4) Presentation
+## (5) Presentation
 The presentation should be 20 minutes followed by 10 minutes of questions and answers.
 The presentation is in English language and is targeted for a general audience.
 If possible, the presentation should cover introduction to the topic highlighting
