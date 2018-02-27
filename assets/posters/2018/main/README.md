@@ -6,6 +6,9 @@ Change the line number XX, where XX is the version of the poster, in 2018-12-30-
 # Converting images
 
 ```
+inkscape --export-png pv-v09:x.png drawing_pv.svg
+
+
 inkscape --export-png pv-v08.png drawing_pv.svg
 
 inkscape --export-png pt_v16.png drawing_v1x.svg

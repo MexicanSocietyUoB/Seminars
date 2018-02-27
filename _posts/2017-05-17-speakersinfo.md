@@ -2,51 +2,38 @@
 title: "General Information for Speakers"
 ---
 
-As a speaker for the Science Seminars of the Mexican Society,
+Our goal with the Science Seminars is sharing to the international and 
+to the Mexican community what the students of University of Birmingham 
+are doing in their areas of research.
+We are encouraging the community to work towards a reproducible and open
+science where anyone, anywhere can get the benefits of Science.
+
+As a speaker of the Science Seminars of the Mexican Society,
 we are kindly inviting you to share your research advances in an
 enthusiastic, engaging and provocative talk for a general audience.
-With this in mind, we essentially require you to share the following information
+We essentially require you to share the following information
 before your talk:
-* (1) a short abstract (maximum 150 words),
+* (0) Title of the talk.
+* (1) a short abstract of the talk (maximum 150 words),
 * (2) three keywords,
 * (3) a short biography (maximum 200 words).
 * (4) a 20-minute presentation in PDF, and
 
-Our goal with the Science Seminars is sharing to the international and to the
-Mexican community what the students of University of Birmingham are doing in
-their areas of research.
-We are also encouraging the community to work towards a reproducible and open
-science where anyone, anywhere can get the benefits of Science.
-
 ## Requirements
 
-##### (1) Abstract
+#### (0) Title of the talk
+Put a bit of imagination and create a provocative title.
+We want that our audience feel the power of science and the creation of new knowledge.
+
+#### (1) Abstract
 We recommend you to write an abstract of approximately 150 word.
 [How to construct a Nature summary paragraph](https://github.com/MexicanSocietyUoB/Seminars/blob/master/assets/presentations/Letter_bold_para.pdf)
 is a good reference of both well written and well structured abstract.
 
-##### (2) Keywords
+#### (2) Keywords
 Provide from three to five keywords going from general to specific areas of your research.
 
-##### (3) Title of the presentation
-Put a bit of imagination and create a provocative title.
-We want that our audience feel the power of science and the creation of new knowledge.
-
-##### (4) Presentation
-The presentation should be 20 minutes followed by 10 minutes of questions and answers.
-The presentation is in English language and is targeted for a general audience.
-If possible, the presentation should cover introduction to the topic highlighting
-the novelty and contribution to knowledge, the methodology used in the research,
-results and conclusions.
-
-Your presentation is going to be available in the Science Seminar's
-[website](https://mexicansocietyuob.github.io/seminars/) for which we require
-that the content of your presentation is under the creative commons licence.
-
-We recommend you to read these general points on how to structure your presentation
-[(Corticalia 2016)](https://corticalia.wordpress.com/2016/06/19/how-to-structure-a-presentation/).
-
-##### (5) Short Biography
+#### (3) Short Biography
 Create a short biography of maximum 200 words. We also encourage you to share your
 contact details such as Webpage, twitter, Facebook, github and e-mail.
 This is optional, but it would be nice if you have a photo to add you in the
@@ -61,6 +48,20 @@ X species for the first time”
 [(Puljak, 2008)](http://www.labtimes.org/labtimes/method/methods/2008_02.lasso).
 
 
-##### Video
-As long as you agree, you might be video recorded and the video will be upload to
-youtube in order to share to our global audience your talk.
+#### (4) Presentation
+The presentation should be 20 minutes followed by 10 minutes of questions and answers.
+The presentation is in English language and is targeted for a general audience.
+If possible, the presentation should cover introduction to the topic highlighting
+the novelty and contribution to knowledge, the methodology used in the research,
+results and conclusions.
+
+Your presentation is going to be available in the Science Seminar's
+[website](https://mexicansocietyuob.github.io/seminars/) for which we require
+that the content of your presentation is under the creative commons licence.
+
+We recommend you to read these general points on how to structure your presentation
+[(Corticalia 2016)](https://corticalia.wordpress.com/2016/06/19/how-to-structure-a-presentation/).
+
+#### Video
+As long as you agree, you are going to be video recorded and the video will be upload to
+youtube in order to share your talk to our global audience.

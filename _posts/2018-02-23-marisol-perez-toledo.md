@@ -18,7 +18,9 @@ tags:
 Marisolo Perez-Toledo, a research fellow from the Institute of Immunology and Immunotherapy,
 is going to speak about "How immunity works? The role of platelets fighting back infections"
 
-Her presentation is available [here](https://github.com/MexicanSocietyUoB/seminars/blob/master/assets/slides/pvega23022018/slides.pdf)
+
+For further information about Marisol's reasearch and her presentation, we invite the reader to contact her
+to her email: m.perez-toledo@bham.ac.uk.
 
 
 ## Abstract

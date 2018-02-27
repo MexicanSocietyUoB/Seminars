@@ -18,7 +18,9 @@ Perla Vega, a second year PhD in the School of Biosciences, is going to speak ab
 "Non-tubercolousmycobacterial biofilms and its role during infection"
 
 
-Her presentation is available [here](https://github.com/MexicanSocietyUoB/seminars/blob/master/assets/slides/pvega23022018/slides.pdf)
+For more inforamtion about Perla's research and her presentation,
+we invite the reader to contact her at  PJV525@student.bham.ac.uk
+
 
 ## Abstract
 Mycobacterium chelonae is a pathogen that causes infections in humans. 
